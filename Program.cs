@@ -8,7 +8,6 @@ namespace FirstConsole
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine(" T4");
-            True;
         }
     }
 }
