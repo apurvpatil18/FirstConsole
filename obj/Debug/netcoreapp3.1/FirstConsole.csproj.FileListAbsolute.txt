@@ -1,0 +1,14 @@
+D:\Project\FirstConsole\FirstConsole\bin\Debug\netcoreapp3.1\FirstConsole.exe
+D:\Project\FirstConsole\FirstConsole\bin\Debug\netcoreapp3.1\FirstConsole.deps.json
+D:\Project\FirstConsole\FirstConsole\bin\Debug\netcoreapp3.1\FirstConsole.runtimeconfig.json
+D:\Project\FirstConsole\FirstConsole\bin\Debug\netcoreapp3.1\FirstConsole.runtimeconfig.dev.json
+D:\Project\FirstConsole\FirstConsole\bin\Debug\netcoreapp3.1\FirstConsole.dll
+D:\Project\FirstConsole\FirstConsole\bin\Debug\netcoreapp3.1\FirstConsole.pdb
+D:\Project\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.csproj.AssemblyReference.cache
+D:\Project\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.AssemblyInfoInputs.cache
+D:\Project\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.AssemblyInfo.cs
+D:\Project\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.csproj.CoreCompileInputs.cache
+D:\Project\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.dll
+D:\Project\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.pdb
+D:\Project\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.genruntimeconfig.cache
